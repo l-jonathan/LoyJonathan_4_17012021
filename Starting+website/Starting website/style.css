@@ -6,10 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.sectionCinq {
-    display: flex;
-    flex-direction: column;
-}
+
 a,
 button {
     transition: all .3s ease-in-out;
